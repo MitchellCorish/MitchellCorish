@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**MitchellCorish/MitchellCorish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋, I'm Mitch.
 
 I am currently a **Staff Software Engineer** leading the productization of a utility customer information system where every customer had been a unique build, from discovery and concept through build, hyper-care at go-live, and into long-term support.
 
